@@ -78,7 +78,7 @@ textarea{width:100%;min-height:220px;padding:10px;border:1px solid var(--border)
 <div class="wrap" data-page-node-id="b7UTKH0c5wUFQFD5KrqK5T">
 <header data-page-node-id="jgQCj8JkyaaCsshBOzSWkG">
 <div class="hdr-row" data-page-node-id="JHiqvK9Rb0hVwhc2wrdnN3">
-<div data-page-node-id="DIWZE4BuoWJYHDQsXu4msu"><h1 data-page-node-id="bEb4SRSk6dxZHTSEuCd0kY">雅乐标讯决策台</h1><div class="sub" data-page-node-id="HEA2Mv3u8Rbx8jnn4sFThp">音视频 · 会议 · 舞台灯光机械 · 扩声 · 中控 · 多媒体 ｜ GitHub Pages 静态版 · 数据保存在本机浏览器</div></div>
+<div data-page-node-id="DIWZE4BuoWJYHDQsXu4msu"><h1 data-page-node-id="bEb4SRSk6dxZHTSEuCd0kY">雅乐标讯决策台</h1><div class="sub">音视频 · 会议 · 舞台灯光机械 · 扩声 · 中控 · 多媒体 ｜ GitHub Pages 静态版 · <span id="dataStamp" style="color:var(--primary);font-weight:600">正在检查数据更新时间…</span></div></div>
 <div class="hdr-actions" data-page-node-id="5Wy0VA9e6hjCBK1p0TY7xS">
 <span class="status" data-page-node-id="LJpHlULuzTwMNt7Q4QkzCv"><span class="dot" id="cloudDot"></span><span id="cloudTxt" data-page-node-id="eUoEsZ1S7xCJyPexKpIpQo">静态模式</span></span>
 <button class="btn" onclick="exportDecision()" data-page-node-id="vEmiV5c0Mv1bBglHpDBDpd">导出投标决策表</button>
@@ -296,14 +296,34 @@ function urgency(d){const n=days(d);if(n===null)return"";if(n<0)return"已过期
 function decision(d){const n=days(d);if(n===null)return"跟踪机会";if(n<0)return"已过期";if(d.fit==="ok")return n<=2?"立即行动":(n<=7?"优先投标":"重点跟踪");if(d.fit==="need1")return"联合体/借资质";return"跟踪机会"}
 function money(d){const a=d.budget||d.amount;return a?a+" 万":"未披露"}
 
-function loadLocal(){
+let REMOTE_STAMP='';
+function applyData(baseArr){
   let saved=[];
   try{saved=JSON.parse(localStorage.getItem(LS_KEY)||"[]")}catch(e){saved=[]}
   const map=new Map();
-  BASE_DATA.forEach(d=>map.set(d.id,norm(d)));
+  baseArr.forEach(d=>map.set(d.id,norm(d)));
   saved.forEach(d=>{if(d&&d.id)map.set(d.id,norm(d))});
   DATA=[...map.values()];
   initUI();render();
+  const el=$("dataStamp");
+  if(el) el.textContent = REMOTE_STAMP ? ('数据更新于 '+REMOTE_STAMP) : ('内置数据 · '+BASE_DATA.length+' 条');
+}
+async function loadLocal(){
+  // 优先读取每日同步的 data.json；失败则回退内置 BASE_DATA
+  try{
+    const res=await fetch('data.json?t='+Date.now(),{cache:'no-store'});
+    if(!res.ok) throw new Error('HTTP '+res.status);
+    const j=await res.json();
+    if(!j.projects||!Array.isArray(j.projects)) throw new Error('数据格式异常');
+    REMOTE_STAMP=j.generated_at||'';
+    $("cloudTxt").textContent = '每日同步';
+    $("cloudDot").style.background = '#16a34a';
+    applyData(j.projects);
+  }catch(e){
+    REMOTE_STAMP='';
+    $("cloudTxt").textContent = '内置数据';
+    applyData(BASE_DATA);
+  }
 }
 function persist(){
   const base=new Set(BASE_DATA.map(d=>d.id));
