@@ -1,0 +1,113 @@
+{
+  "_说明": "已验证的失效链接修正表。同步脚本每次生成 data.json 时自动应用，按 id 覆盖 sourceUrl/source。新增修正请追加条目。",
+  "fixes": {
+    "O05": {
+      "sourceUrl": "https://www.anfangzb.com/view/12151/Ti46v6EBLRKCxEZfhOnL.html",
+      "source": "安防招标采购网",
+      "reason": "原 zbytb.com 阿里云 WAF 验证页，浏览器打不开",
+      "verified": "2026-11-25"
+    },
+    "O16": {
+      "sourceUrl": "https://caigou.91jinshu.com/zhaobiao252364.html",
+      "source": "91招标采购网",
+      "reason": "原 gwdt.cn 阿里云 WAF 验证页，浏览器打不开",
+      "verified": "2026-11-25"
+    },
+    "S06": {
+      "sourceUrl": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20241231/c35180eb-f4d0-4d2a-bb2b-1d7d36feee72.html",
+      "source": "浙江省公共资源交易服务平台",
+      "reason": "原 sgcc.dlnyzb.com 返回 429 限流，浏览器打不开",
+      "verified": "2026-11-25"
+    },
+    "O14": {
+      "sourceUrl": "https://www.bing.com/search?q=ZJZB-2026-25461+%E5%B9%BF%E5%B7%9E%E6%B5%B7%E5%85%B3%E7%BC%96%E7%A7%81%E5%B1%80+%E9%9F%B3%E8%A7%86%E9%A2%91%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4",
+      "source": "项目编号检索（原 zbytb.com 被 WAF 拦截）",
+      "reason": "全网仅 zbytb.com 有该公告且被 WAF 拦截，改用项目编号精准搜索页提供多个转载源",
+      "verified": "2026-11-25"
+    },
+    "O20": {
+      "sourceUrl": "https://biaoxun.shuidi.cn/detail/ebd931a9f6648643740bb5de72d7b585.html",
+      "source": "水滴标讯",
+      "reason": "原 zbytb.com 阿里云 WAF 验证页",
+      "verified": "2026-11-25"
+    },
+    "Y21": {
+      "sourceUrl": "https://www.anfangzhaobiao.com/news-d8014b3c60978ca19319ee8eab6939a3",
+      "source": "安防招标网",
+      "reason": "原 zbytb.com 阿里云 WAF 验证页",
+      "verified": "2026-11-25"
+    },
+    "Y31": {
+      "sourceUrl": "https://www.chinamae.com/purchases/40137248c91d79ec2ccb73fd2211e248.html",
+      "source": "机电设备采购平台",
+      "reason": "原 zbytb.com 阿里云 WAF 验证页",
+      "verified": "2026-11-25"
+    },
+    "S09": {
+      "sourceUrl": "https://www.anfangzhaobiao.com/news-8f5188c56417fc20487cdd5cdcce0ffe",
+      "source": "安防招标网",
+      "reason": "原 dlzb.com 阿里云 WAF 验证页",
+      "verified": "2026-11-25"
+    },
+    "S10": {
+      "sourceUrl": "https://www.chinamae.com/purchases/205e941e75baf91ec273b22e82052760.html",
+      "source": "机电设备采购平台",
+      "reason": "原 zbytb.com 阿里云 WAF 验证页",
+      "verified": "2026-11-25"
+    },
+    "S01": {
+      "sourceUrl": "https://www.tujianzhaobiao.com/news-9fcb80d49306723712eee69724b6d2e5",
+      "source": "土建招标网",
+      "reason": "原 zbytb.com 阿里云 WAF 验证页",
+      "verified": "2026-11-25"
+    },
+    "S07": {
+      "sourceUrl": "http://chinabiding.cn/bid/detail?id=923228",
+      "source": "中国招投标网",
+      "reason": "原 gdtzb.com 阿里云 WAF 验证页",
+      "verified": "2026-11-25"
+    },
+    "Df75828a8": {
+      "sourceUrl": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202611/t20261114_27685356.htm",
+      "source": "中国政府采购网",
+      "reason": "原 zfcg.szggzy.com:8084 返回 404",
+      "verified": "2026-11-25"
+    },
+    "Da80abb25": {
+      "sourceUrl": "https://www.chinamae.com/purchases/cccb831cc103959e81b7eed5ed56621a.html",
+      "source": "机电设备采购平台",
+      "reason": "原 zfcg.szggzy.com:8084 返回 404",
+      "verified": "2026-11-25"
+    },
+    "O18": {
+      "sourceUrl": "https://www.bing.com/search?q=%E6%B8%85%E8%BF%9C%E5%B8%82%E6%B8%85%E5%9F%8E%E5%8C%BA%E6%B0%91%E6%94%BF%E5%85%BB%E8%80%81%E4%B8%AD%E5%BF%83%20%E9%9F%B3%E8%A7%86%E9%A2%91%E7%B3%BB%E7%BB%9F%20GDBJQY2026-056",
+      "source": "招标编号检索（原 zsczzb.cn 403）",
+      "reason": "全网仅 zsczzb.cn 有该公告且 403，改用招标编号精准搜索",
+      "verified": "2026-11-25"
+    },
+    "Y27": {
+      "sourceUrl": "https://www.szecp.com.cn/first_zbgg/2026-10-10/2940969.html",
+      "source": "华润守正采购交易平台",
+      "reason": "原 m.yfbzb.com 返回 403，改用官方源",
+      "verified": "2026-11-25"
+    },
+    "Y30": {
+      "sourceUrl": "https://guangdong.jianyu360.cn/jybx/20261110_261109101956716.html",
+      "source": "剑鱼标讯",
+      "reason": "原 m.yfbzb.com 返回 403",
+      "verified": "2026-11-25"
+    },
+    "Y32": {
+      "sourceUrl": "http://www.jichangzhaobiao.com/g-jcbidding-0--80852402.html",
+      "source": "机场景招标网",
+      "reason": "原 m.yfbzb.com 返回 403",
+      "verified": "2026-11-25"
+    },
+    "Y36": {
+      "sourceUrl": "https://www.bing.com/search?q=%E6%83%A0%E5%B7%9E%E5%B8%82%E6%83%A0%E5%9F%8E%E5%8C%BA%E6%B2%B3%E5%8D%97%E5%B2%B8%E8%A1%97%E9%81%93%20%E8%A7%86%E9%A2%91%E4%BC%9A%E8%AE%AE%E7%B3%BB%E7%BB%9F%E8%AE%BE%E5%A4%87%20%E5%AE%9A%E7%82%B9%E9%87%87%E8%B4%AD",
+      "source": "项目名检索（原 yfbzb.com 403）",
+      "reason": "全网仅 yfbzb.com 有该公告且 403，改用项目名精准搜索",
+      "verified": "2026-11-25"
+    }
+  }
+}
