@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-26 06:34 (北京时间)",
+  "generated_at": "2026-11-27 08:57 (北京时间)",
   "source_generated_at": "2026-11-25 11:45",
   "source_total": 2388,
-  "matched_count": 141,
-  "total": 233,
-  "open_count": 83,
+  "matched_count": 164,
+  "total": 256,
+  "open_count": 95,
   "projects": [
     {
       "id": "O01",
@@ -2670,6 +2670,36 @@
       "follow": false
     },
     {
+      "id": "D54ff0213",
+      "category": "open",
+      "name": "2026年南山香格里拉酒店音响以及LED屏维保项目采购公告",
+      "type": "在招项目",
+      "region": "广东",
+      "city": "南山",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-11-24",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "扩声系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "在招",
+        "音响"
+      ],
+      "summary": "来源：深圳阳光采购平台 ｜ 关键词：音响 ｜ 发布日期：2026-11-24",
+      "detail": "由每日自动同步生成。原始标题：2026年南山香格里拉酒店音响以及LED屏维保项目采购公告。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳阳光采购平台",
+      "sourceUrl": "https://ygcg.szexgrp.com/jyxxDetails.htm?bidSectionNumber=FW-20260113-0780&contentId=20763804&code=cggg",
+      "follow": false
+    },
+    {
       "id": "D6a00b3b4",
       "category": "yale",
       "name": "深圳市当代艺术与城市规划馆A3展厅灯膜与灯光采购项目（第二次）的采购公告",
@@ -3030,6 +3060,66 @@
       "follow": false
     },
     {
+      "id": "Dafe09350",
+      "category": "open",
+      "name": "龙华区文化馆音频扩声系统购置项目的采购公告",
+      "type": "在招项目",
+      "region": "广东",
+      "city": "龙华",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-11-19",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "扩声系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "在招",
+        "音频"
+      ],
+      "summary": "来源：深圳公共资源交易中心 ｜ 关键词：音频 ｜ 发布日期：2026-11-19",
+      "detail": "由每日自动同步生成。原始标题：龙华区文化馆音频扩声系统购置项目的采购公告。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳公共资源交易中心",
+      "sourceUrl": "https://www.szggzy.com/jygg/details.html?contentId=20757031",
+      "follow": false
+    },
+    {
+      "id": "Dee4a131d",
+      "category": "open",
+      "name": "福田区相关会议场所扩声音响系统备份项目的采购公告",
+      "type": "在招项目",
+      "region": "广东",
+      "city": "福田",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-11-19",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "扩声系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "在招",
+        "音响"
+      ],
+      "summary": "来源：深圳公共资源交易中心 ｜ 关键词：音响 ｜ 发布日期：2026-11-19",
+      "detail": "由每日自动同步生成。原始标题：福田区相关会议场所扩声音响系统备份项目的采购公告。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳公共资源交易中心",
+      "sourceUrl": "https://www.szggzy.com/jygg/details.html?contentId=20756897",
+      "follow": false
+    },
+    {
       "id": "Dac1a50bc",
       "category": "open",
       "name": "深圳外国语光明星耀学校报告厅声光电设备采购项目（A）招标公告",
@@ -3357,6 +3447,36 @@
       "detail": "由每日自动同步生成。原始标题：关于深圳市福田区荔园外国语小学（海滨）LED户外显示屏项目的终止公告。请点击来源链接核实详情、预算与截止日期。",
       "source": "深圳公共资源交易中心",
       "sourceUrl": "https://www.szggzy.com/jygg/details.html?contentId=20751969",
+      "follow": false
+    },
+    {
+      "id": "Dd672abc3",
+      "category": "yale",
+      "name": "光明水务公司2026年综合楼视频会议系统升级项目澄清公告1",
+      "type": "历史项目",
+      "region": "广东",
+      "city": "光明",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-11-13",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "会议系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "更正",
+        "视频会议"
+      ],
+      "summary": "来源：深圳阳光采购平台 ｜ 关键词：视频会议 ｜ 发布日期：2026-11-13",
+      "detail": "由每日自动同步生成。原始标题：光明水务公司2026年综合楼视频会议系统升级项目澄清公告1。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳阳光采购平台",
+      "sourceUrl": "https://ygcg.szexgrp.com/jyxxDetails.htm?bidSectionNumber=HW16126057-001&contentId=20748099&code=bggg",
       "follow": false
     },
     {
@@ -3722,6 +3842,36 @@
       "follow": false
     },
     {
+      "id": "D93fe8214",
+      "category": "open",
+      "name": "光明区视联网会议系统自行采购公告",
+      "type": "在招项目",
+      "region": "广东",
+      "city": "光明",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-11-11",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "会议系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "在招",
+        "会议"
+      ],
+      "summary": "来源：深圳公共资源交易中心 ｜ 关键词：会议 ｜ 发布日期：2026-11-11",
+      "detail": "由每日自动同步生成。原始标题：光明区视联网会议系统自行采购公告。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳公共资源交易中心",
+      "sourceUrl": "https://zfcg.szggzy.com:8084/gsgg/002001/002001008/002001008001/20261111/065a8e62-af25-4e1a-9b2a-761fc22c1617.html",
+      "follow": false
+    },
+    {
       "id": "D9267f76c",
       "category": "open",
       "name": "深圳国际交流中心会议酒店中央空调冷却水、冷冻水水质处理，冷却塔清洗及锅炉补水水质服务项目-采购失败公示",
@@ -3749,6 +3899,36 @@
       "detail": "由每日自动同步生成。原始标题：深圳国际交流中心会议酒店中央空调冷却水、冷冻水水质处理，冷却塔清洗及锅炉补水水质服务项目-采购失败公示。请点击来源链接核实详情、预算与截止日期。",
       "source": "深圳阳光采购平台",
       "sourceUrl": "https://ygcg.szexgrp.com/jyxxDetails.htm?bidSectionNumber=YG26ZG0054987-01&contentId=20740823&code=qtgs",
+      "follow": false
+    },
+    {
+      "id": "Da99fe2a4",
+      "category": "open",
+      "name": "龙华数字智造中心运营展厅多媒体设备采购",
+      "type": "在招项目",
+      "region": "广东",
+      "city": "龙华",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-11-10",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "多媒体系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "在招",
+        "多媒体"
+      ],
+      "summary": "来源：深圳阳光采购平台 ｜ 关键词：多媒体 ｜ 发布日期：2026-11-10",
+      "detail": "由每日自动同步生成。原始标题：龙华数字智造中心运营展厅多媒体设备采购。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳阳光采购平台",
+      "sourceUrl": "https://ygcg.szexgrp.com/jyxxDetails.htm?bidSectionNumber=YG26ZG0057754-01&contentId=20740029&code=cggg",
       "follow": false
     },
     {
@@ -3809,6 +3989,36 @@
       "detail": "由每日自动同步生成。原始标题：深圳第四十一高项目动画多媒体制作采购。请点击来源链接核实详情、预算与截止日期。",
       "source": "深圳地铁·采购服务",
       "sourceUrl": "https://cg.shenzhenmc.com/cgfuwu/117505.jhtml",
+      "follow": false
+    },
+    {
+      "id": "D2c8aac70",
+      "category": "yale",
+      "name": "坪山大道-清风大道段等项目多媒体制作服务",
+      "type": "历史项目",
+      "region": "广东",
+      "city": "坪山",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-11-10",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "多媒体系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "其他",
+        "多媒体"
+      ],
+      "summary": "来源：深圳地铁·采购服务 ｜ 关键词：多媒体 ｜ 发布日期：2026-11-10",
+      "detail": "由每日自动同步生成。原始标题：坪山大道-清风大道段等项目多媒体制作服务。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳地铁·采购服务",
+      "sourceUrl": "https://cg.shenzhenmc.com/cgfuwu/117503.jhtml",
       "follow": false
     },
     {
@@ -4139,6 +4349,36 @@
       "detail": "由每日自动同步生成。原始标题：深圳国际交流中心会议中心G层饼房冷藏库改造冷冻库采购及安装项目候选人公示。请点击来源链接核实详情、预算与截止日期。",
       "source": "深圳阳光采购平台",
       "sourceUrl": "https://ygcg.szexgrp.com/jyxxDetails.htm?bidSectionNumber=YG26ZT0055767-01&contentId=20736212&code=hxrgs",
+      "follow": false
+    },
+    {
+      "id": "D38768e75",
+      "category": "yale",
+      "name": "罗湖区2026年度会议氛围营造会旗安装服务增补项目的采购结果公告",
+      "type": "历史项目",
+      "region": "广东",
+      "city": "罗湖",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-11-06",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "会议系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "中标",
+        "会议"
+      ],
+      "summary": "来源：深圳公共资源交易中心 ｜ 关键词：会议 ｜ 发布日期：2026-11-06",
+      "detail": "由每日自动同步生成。原始标题：罗湖区2026年度会议氛围营造会旗安装服务增补项目的采购结果公告。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳公共资源交易中心",
+      "sourceUrl": "https://www.szggzy.com/jygg/details.html?contentId=20735424",
       "follow": false
     },
     {
@@ -4922,6 +5162,36 @@
       "follow": false
     },
     {
+      "id": "D6eb02141",
+      "category": "yale",
+      "name": "福田区委机关大楼512会议室视频会议设备采购项目的采购结果公告",
+      "type": "历史项目",
+      "region": "广东",
+      "city": "福田",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-10-30",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "会议系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "中标",
+        "视频会议"
+      ],
+      "summary": "来源：深圳公共资源交易中心 ｜ 关键词：视频会议 ｜ 发布日期：2026-10-30",
+      "detail": "由每日自动同步生成。原始标题：福田区委机关大楼512会议室视频会议设备采购项目的采购结果公告。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳公共资源交易中心",
+      "sourceUrl": "https://www.szggzy.com/jygg/details.html?contentId=20719823",
+      "follow": false
+    },
+    {
       "id": "D60c802e9",
       "category": "open",
       "name": "国家技术标准创新基地（深圳）会议设备采购（A）招标公告",
@@ -4949,6 +5219,36 @@
       "detail": "由每日自动同步生成。原始标题：国家技术标准创新基地（深圳）会议设备采购（A）招标公告。请点击来源链接核实详情、预算与截止日期。",
       "source": "深圳公共资源交易中心",
       "sourceUrl": "https://zfcg.szggzy.com:8084/gsgg/002001/002001002/002001002001/20261030/4360cef5-7524-4989-87d7-1161fd3c5ce9.html",
+      "follow": false
+    },
+    {
+      "id": "D9753565a",
+      "category": "yale",
+      "name": "罗湖区2026年度会议氛围营造（斜插旗专项）服务的采购结果公告",
+      "type": "历史项目",
+      "region": "广东",
+      "city": "罗湖",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-10-30",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "会议系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "中标",
+        "会议"
+      ],
+      "summary": "来源：深圳公共资源交易中心 ｜ 关键词：会议 ｜ 发布日期：2026-10-30",
+      "detail": "由每日自动同步生成。原始标题：罗湖区2026年度会议氛围营造（斜插旗专项）服务的采购结果公告。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳公共资源交易中心",
+      "sourceUrl": "https://www.szggzy.com/jygg/details.html?contentId=20721125",
       "follow": false
     },
     {
@@ -4982,6 +5282,36 @@
       "follow": false
     },
     {
+      "id": "De98b93ed",
+      "category": "yale",
+      "name": "2026年综合办公室光明水厂新办公楼会议设备采购项目结果公告",
+      "type": "历史项目",
+      "region": "广东",
+      "city": "光明",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-10-29",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "会议系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "中标",
+        "会议"
+      ],
+      "summary": "来源：深圳阳光采购平台 ｜ 关键词：会议 ｜ 发布日期：2026-10-29",
+      "detail": "由每日自动同步生成。原始标题：2026年综合办公室光明水厂新办公楼会议设备采购项目结果公告。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳阳光采购平台",
+      "sourceUrl": "https://ygcg.szexgrp.com/jyxxDetails.htm?bidSectionNumber=HW16126052-001&contentId=20717124&code=jggs",
+      "follow": false
+    },
+    {
       "id": "D2609eeb6",
       "category": "yale",
       "name": "深圳地铁LED电子媒体维修项目",
@@ -5009,6 +5339,36 @@
       "detail": "由每日自动同步生成。原始标题：深圳地铁LED电子媒体维修项目。请点击来源链接核实详情、预算与截止日期。",
       "source": "深圳地铁·采购服务",
       "sourceUrl": "https://cg.shenzhenmc.com/cgfuwu/117152.jhtml",
+      "follow": false
+    },
+    {
+      "id": "D0f19b4b1",
+      "category": "open",
+      "name": "【初始合同】龙岗区视频会议系统运维服务采购项目合同公示",
+      "type": "在招项目",
+      "region": "广东",
+      "city": "龙岗",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-10-29",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "会议系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "在招",
+        "视频会议"
+      ],
+      "summary": "来源：深圳公共资源交易中心 ｜ 关键词：视频会议 ｜ 发布日期：2026-10-29",
+      "detail": "由每日自动同步生成。原始标题：【初始合同】龙岗区视频会议系统运维服务采购项目合同公示。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳公共资源交易中心",
+      "sourceUrl": "https://zfcg.szggzy.com:8084/gsgg/002002/002002001/20261029/d8b5932e-144e-4f46-84a0-07db2dca250d.html",
       "follow": false
     },
     {
@@ -5462,6 +5822,36 @@
       "follow": false
     },
     {
+      "id": "D1f5af7ae",
+      "category": "yale",
+      "name": "深城交宝安二期移动会议系统服务采购候选人公示",
+      "type": "历史项目",
+      "region": "广东",
+      "city": "宝安",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-10-26",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "会议系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "中标",
+        "会议"
+      ],
+      "summary": "来源：深圳阳光采购平台 ｜ 关键词：会议 ｜ 发布日期：2026-10-26",
+      "detail": "由每日自动同步生成。原始标题：深城交宝安二期移动会议系统服务采购候选人公示。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳阳光采购平台",
+      "sourceUrl": "https://ygcg.szexgrp.com/jyxxDetails.htm?bidSectionNumber=YG26ZX0055262-01&contentId=20709424&code=hxrgs",
+      "follow": false
+    },
+    {
       "id": "D87baf5f6",
       "category": "yale",
       "name": "深圳机场演出活动音响设备技术保障服务项目结果公示",
@@ -5492,6 +5882,36 @@
       "follow": false
     },
     {
+      "id": "Dfd63419d",
+      "category": "yale",
+      "name": "2026年综合办公室光明水厂新办公楼会议设备采购项目中标候选人公示",
+      "type": "历史项目",
+      "region": "广东",
+      "city": "光明",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-10-26",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "会议系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "中标",
+        "会议"
+      ],
+      "summary": "来源：深圳阳光采购平台 ｜ 关键词：会议 ｜ 发布日期：2026-10-26",
+      "detail": "由每日自动同步生成。原始标题：2026年综合办公室光明水厂新办公楼会议设备采购项目中标候选人公示。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳阳光采购平台",
+      "sourceUrl": "https://ygcg.szexgrp.com/jyxxDetails.htm?bidSectionNumber=HW16126052-001&contentId=20708937&code=hxrgs",
+      "follow": false
+    },
+    {
       "id": "D565dbd50",
       "category": "yale",
       "name": "深圳机场控制区3号灯光站、充电站配套设施应急工程项目设计采购施工（EPC）候选人公示",
@@ -5519,6 +5939,66 @@
       "detail": "由每日自动同步生成。原始标题：深圳机场控制区3号灯光站、充电站配套设施应急工程项目设计采购施工（EPC）候选人公示。请点击来源链接核实详情、预算与截止日期。",
       "source": "深圳阳光采购平台",
       "sourceUrl": "https://ygcg.szexgrp.com/jyxxDetails.htm?bidSectionNumber=SZJC-TS-JT-2026-04724-001&contentId=20708810&code=hxrgs",
+      "follow": false
+    },
+    {
+      "id": "D1b7ac444",
+      "category": "yale",
+      "name": "宝安分局视频会议设备租赁服务项目的采购结果公告",
+      "type": "历史项目",
+      "region": "广东",
+      "city": "宝安",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-10-26",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "会议系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "中标",
+        "视频会议"
+      ],
+      "summary": "来源：深圳公共资源交易中心 ｜ 关键词：视频会议 ｜ 发布日期：2026-10-26",
+      "detail": "由每日自动同步生成。原始标题：宝安分局视频会议设备租赁服务项目的采购结果公告。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳公共资源交易中心",
+      "sourceUrl": "https://www.szggzy.com/jygg/details.html?contentId=20711055",
+      "follow": false
+    },
+    {
+      "id": "Da39f5994",
+      "category": "open",
+      "name": "光明水务公司2026年综合楼视频会议系统升级项目采购公告",
+      "type": "在招项目",
+      "region": "广东",
+      "city": "光明",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-10-23",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "会议系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "在招",
+        "视频会议"
+      ],
+      "summary": "来源：深圳阳光采购平台 ｜ 关键词：视频会议 ｜ 发布日期：2026-10-23",
+      "detail": "由每日自动同步生成。原始标题：光明水务公司2026年综合楼视频会议系统升级项目采购公告。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳阳光采购平台",
+      "sourceUrl": "https://ygcg.szexgrp.com/jyxxDetails.htm?bidSectionNumber=HW16126057-001&contentId=20707660&code=cggg",
       "follow": false
     },
     {
@@ -5822,6 +6302,36 @@
       "follow": false
     },
     {
+      "id": "D3ed16e6c",
+      "category": "open",
+      "name": "光明水厂深度处理及二期工程综合楼会议和视听系统采购 及安装项目零星工程(清单计价)项目结果公示",
+      "type": "在招项目",
+      "region": "广东",
+      "city": "光明",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-10-22",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "会议系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "在招",
+        "会议"
+      ],
+      "summary": "来源：深圳阳光采购平台 ｜ 关键词：会议 ｜ 发布日期：2026-10-22",
+      "detail": "由每日自动同步生成。原始标题：光明水厂深度处理及二期工程综合楼会议和视听系统采购 及安装项目零星工程(清单计价)项目结果公示。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳阳光采购平台",
+      "sourceUrl": "https://ygcg.szexgrp.com/jyxxDetails.htm?bidSectionNumber=YG26ZX0054261-01&contentId=20704030&code=jggs",
+      "follow": false
+    },
+    {
       "id": "D6e83518f",
       "category": "yale",
       "name": "深圳市公安局南山分局视频会议保障及PDT设备采购中标（成交）结果公告",
@@ -5969,6 +6479,36 @@
       "detail": "由每日自动同步生成。原始标题：深圳公共资源交易中心2026-2027年度党政机关会议定点场所框架协议采购项目（第二批）入围结果公告--香格里拉大酒店（深圳福田）有限公司。请点击来源链接核实详情、预算与截止日期。",
       "source": "深圳公共资源交易中心",
       "sourceUrl": "https://www.szggzy.com/jygg/details.html?contentId=20700271",
+      "follow": false
+    },
+    {
+      "id": "Dfa5611b2",
+      "category": "open",
+      "name": "深城交宝安二期移动会议系统服务采购",
+      "type": "在招项目",
+      "region": "广东",
+      "city": "宝安",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-10-20",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "会议系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "在招",
+        "会议"
+      ],
+      "summary": "来源：深圳阳光采购平台 ｜ 关键词：会议 ｜ 发布日期：2026-10-20",
+      "detail": "由每日自动同步生成。原始标题：深城交宝安二期移动会议系统服务采购。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳阳光采购平台",
+      "sourceUrl": "https://ygcg.szexgrp.com/jyxxDetails.htm?bidSectionNumber=YG26ZX0055262-01&contentId=20699188&code=yqh",
       "follow": false
     },
     {
@@ -6122,6 +6662,36 @@
       "follow": false
     },
     {
+      "id": "D2feb66d5",
+      "category": "yale",
+      "name": "光明水厂深度处理及二期工程综合楼会议和视听系统采购 及安装项目零星工程(清单计价)项目候选人公示",
+      "type": "历史项目",
+      "region": "广东",
+      "city": "光明",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-10-19",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "会议系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "中标",
+        "会议"
+      ],
+      "summary": "来源：深圳阳光采购平台 ｜ 关键词：会议 ｜ 发布日期：2026-10-19",
+      "detail": "由每日自动同步生成。原始标题：光明水厂深度处理及二期工程综合楼会议和视听系统采购 及安装项目零星工程(清单计价)项目候选人公示。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳阳光采购平台",
+      "sourceUrl": "https://ygcg.szexgrp.com/jyxxDetails.htm?bidSectionNumber=YG26ZX0054261-01&contentId=20695441&code=hxrgs",
+      "follow": false
+    },
+    {
       "id": "D3b6cd8e9",
       "category": "yale",
       "name": "深圳会展中心2026年度会议桌及贵宾椅采购项目候选人公示",
@@ -6179,6 +6749,36 @@
       "detail": "由每日自动同步生成。原始标题：广州湾区新岸（罗冲围片区）国际设计竞赛效果图、动画多媒体制作 结果公示。请点击来源链接核实详情、预算与截止日期。",
       "source": "深圳阳光采购平台",
       "sourceUrl": "https://ygcg.szexgrp.com/jyxxDetails.htm?bidSectionNumber=YG26ZX0053553-01&contentId=20695264&code=jggs",
+      "follow": false
+    },
+    {
+      "id": "Da2536011",
+      "category": "yale",
+      "name": "龙岗区视频会议系统运维服务采购项目中标（成交）结果公示",
+      "type": "历史项目",
+      "region": "广东",
+      "city": "龙岗",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-10-19",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "会议系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "中标",
+        "视频会议"
+      ],
+      "summary": "来源：深圳公共资源交易中心 ｜ 关键词：视频会议 ｜ 发布日期：2026-10-19",
+      "detail": "由每日自动同步生成。原始标题：龙岗区视频会议系统运维服务采购项目中标（成交）结果公示。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳公共资源交易中心",
+      "sourceUrl": "https://zfcg.szggzy.com:8084/gsgg/002001/002001004/002001004001/20261019/62d92223-50de-4fa1-8f37-7bf57c2e6a20.html",
       "follow": false
     },
     {
@@ -6329,6 +6929,36 @@
       "detail": "由每日自动同步生成。原始标题：惠州市仲恺深能燃气有限公司会议音视频采购项目。请点击来源链接核实详情、预算与截止日期。",
       "source": "深圳阳光采购平台",
       "sourceUrl": "https://ygcg.szexgrp.com/jyxxDetails.htm?bidSectionNumber=PUR260901449&contentId=20690761&code=hxrgs",
+      "follow": false
+    },
+    {
+      "id": "Ddf2bf4f1",
+      "category": "open",
+      "name": "福田区委机关大楼512会议室视频会议设备采购项目的采购公告",
+      "type": "在招项目",
+      "region": "广东",
+      "city": "福田",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-10-16",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "会议系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "在招",
+        "视频会议"
+      ],
+      "summary": "来源：深圳公共资源交易中心 ｜ 关键词：视频会议 ｜ 发布日期：2026-10-16",
+      "detail": "由每日自动同步生成。原始标题：福田区委机关大楼512会议室视频会议设备采购项目的采购公告。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳公共资源交易中心",
+      "sourceUrl": "https://www.szggzy.com/jygg/details.html?contentId=20692947",
       "follow": false
     },
     {
@@ -6779,6 +7409,66 @@
       "detail": "由每日自动同步生成。原始标题：深圳巴士集团2026年度无纸化会议系统维保服务采购项目候选人公示。请点击来源链接核实详情、预算与截止日期。",
       "source": "深圳阳光采购平台",
       "sourceUrl": "https://ygcg.szexgrp.com/jyxxDetails.htm?bidSectionNumber=YG26ZD0053067-01&contentId=20684252&code=hxrgs",
+      "follow": false
+    },
+    {
+      "id": "D3316f270",
+      "category": "open",
+      "name": "2026年综合办公室光明水厂新办公楼会议设备采购项目采购公告",
+      "type": "在招项目",
+      "region": "广东",
+      "city": "光明",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-10-13",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "会议系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "在招",
+        "会议"
+      ],
+      "summary": "来源：深圳阳光采购平台 ｜ 关键词：会议 ｜ 发布日期：2026-10-13",
+      "detail": "由每日自动同步生成。原始标题：2026年综合办公室光明水厂新办公楼会议设备采购项目采购公告。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳阳光采购平台",
+      "sourceUrl": "https://ygcg.szexgrp.com/jyxxDetails.htm?bidSectionNumber=HW16126052-001&contentId=20682467&code=cggg",
+      "follow": false
+    },
+    {
+      "id": "D301b095e",
+      "category": "open",
+      "name": "宝安分局视频会议设备租赁服务项目的采购公告",
+      "type": "在招项目",
+      "region": "广东",
+      "city": "宝安",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-10-13",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "会议系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "在招",
+        "视频会议"
+      ],
+      "summary": "来源：深圳公共资源交易中心 ｜ 关键词：视频会议 ｜ 发布日期：2026-10-13",
+      "detail": "由每日自动同步生成。原始标题：宝安分局视频会议设备租赁服务项目的采购公告。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳公共资源交易中心",
+      "sourceUrl": "https://www.szggzy.com/jygg/details.html?contentId=20684553",
       "follow": false
     },
     {
