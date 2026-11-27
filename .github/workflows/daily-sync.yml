@@ -1,6 +1,10 @@
 name: 每日同步决策台数据
 
 on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'data.json'
   schedule:
     - cron: '0 0 * * *' # UTC 00:00 = 北京时间 08:00
   workflow_dispatch:
