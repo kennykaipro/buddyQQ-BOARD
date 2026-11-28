@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-27 09:47 (北京时间)",
-  "source_generated_at": "2026-11-25 11:45",
-  "source_total": 2388,
-  "matched_count": 164,
-  "total": 256,
-  "open_count": 95,
+  "generated_at": "2026-11-28 08:42 (北京时间)",
+  "source_generated_at": "2026-11-27 22:52",
+  "source_total": 2482,
+  "matched_count": 172,
+  "total": 264,
+  "open_count": 100,
   "projects": [
     {
       "id": "O01",
@@ -2416,7 +2416,7 @@
       "summary": "评标委员会未启动异常低价专项审查、未核查报价合理性与成本构成，财政局认定投诉部分成立。",
       "detail": "依据财政部令 87 号第六十条、94 号第三十二条、财库〔2026〕2 号。处理决定：认定中标结果无效，责令重新采购。",
       "source": "中国湖北政府采购网",
-      "sourceUrl": "http://www.ccgp-hubei.gov.cn/notice/202606/jdxxgg_50573205ac004b17972c7c7a3726785e.html"
+      "sourceUrl": "https://www.ccgp-hubei.gov.cn/notice/202606/jdxxgg_50573205ac004b17972c7c7a3726785e.html"
     },
     {
       "id": "L03",
@@ -2441,7 +2441,7 @@
       "summary": "采购预算 155.29 万元，评审小组未要求成交供应商提交原材料、人工、制造费用等成本佐证材料，存在低价恶性竞争及履约质量风险。",
       "detail": "依据《政府采购法》第五十六条、94 号令等，认定评审意见无效、中标结果无效。",
       "source": "中国湖北政府采购网",
-      "sourceUrl": "http://www.ccgp-hubei.gov.cn/notice/202607/jdxxgg_46177d39fb2640f7a839312b1640aa73.html"
+      "sourceUrl": "https://ccgp-hubei.gov.cn/notice/202607/jdxxgg_46177d39fb2640f7a839312b1640aa73.html"
     },
     {
       "id": "L04",
@@ -2638,6 +2638,246 @@
       "detail": "依据 A-25 条。该案特点是将单价异常也纳入警戒线核查，防止通过不平衡报价规避总价审查。",
       "source": "重庆市公共资源交易监督管理局",
       "sourceUrl": "https://ggzyjyjgj.cq.gov.cn/xmxx/002008/20261118/448a9708-140a-4ff9-8e8b-cafe298f9918.html"
+    },
+    {
+      "id": "D6e167d4c",
+      "category": "open",
+      "name": "深圳市公安局盐田分局视频会议系统升级改造项目的采购公告",
+      "type": "在招项目",
+      "region": "广东",
+      "city": "深圳",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-11-27",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "会议系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "在招",
+        "视频会议"
+      ],
+      "summary": "来源：深圳公共资源交易中心 ｜ 关键词：视频会议 ｜ 发布日期：2026-11-27",
+      "detail": "由每日自动同步生成。原始标题：深圳市公安局盐田分局视频会议系统升级改造项目的采购公告。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳公共资源交易中心",
+      "sourceUrl": "https://www.szggzy.com/jygg/details.html?contentId=20775299",
+      "follow": false
+    },
+    {
+      "id": "D90b83b8f",
+      "category": "open",
+      "name": "深圳国际交流中心会议中心AV辅材采购项目-采购失败公示",
+      "type": "在招项目",
+      "region": "广东",
+      "city": "深圳",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-11-26",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "会议系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "在招",
+        "会议"
+      ],
+      "summary": "来源：深圳阳光采购平台 ｜ 关键词：会议 ｜ 发布日期：2026-11-26",
+      "detail": "由每日自动同步生成。原始标题：深圳国际交流中心会议中心AV辅材采购项目-采购失败公示。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳阳光采购平台",
+      "sourceUrl": "https://ygcg.szexgrp.com/jyxxDetails.htm?bidSectionNumber=YG26QG0056459-01&contentId=20770766&code=qtgs",
+      "follow": false
+    },
+    {
+      "id": "D4f1d090f",
+      "category": "yale",
+      "name": "深圳音乐厅2026年小剧场投影机更换项目中标候选人公示",
+      "type": "历史项目",
+      "region": "广东",
+      "city": "深圳",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-11-26",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "多媒体系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "中标",
+        "投影"
+      ],
+      "summary": "来源：深圳阳光采购平台 ｜ 关键词：投影 ｜ 发布日期：2026-11-26",
+      "detail": "由每日自动同步生成。原始标题：深圳音乐厅2026年小剧场投影机更换项目中标候选人公示。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳阳光采购平台",
+      "sourceUrl": "https://ygcg.szexgrp.com/jyxxDetails.htm?bidSectionNumber=YG26QG0056246-01&contentId=20770633&code=hxrgs",
+      "follow": false
+    },
+    {
+      "id": "D7c83c405",
+      "category": "open",
+      "name": "深圳国际交流中心会议酒店新媒体代运营服务项目招标公告",
+      "type": "在招项目",
+      "region": "广东",
+      "city": "深圳",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-11-26",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "会议系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "在招",
+        "会议"
+      ],
+      "summary": "来源：深圳阳光采购平台 ｜ 关键词：会议 ｜ 发布日期：2026-11-26",
+      "detail": "由每日自动同步生成。原始标题：深圳国际交流中心会议酒店新媒体代运营服务项目招标公告。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳阳光采购平台",
+      "sourceUrl": "https://ygcg.szexgrp.com/jyxxDetails.htm?bidSectionNumber=YG26QG0058692-01&contentId=20770332&code=cggg",
+      "follow": false
+    },
+    {
+      "id": "De6b62ce4",
+      "category": "open",
+      "name": "深圳医学科学院永久场地地块二会议设备采购项目（A）招标公告",
+      "type": "在招项目",
+      "region": "广东",
+      "city": "深圳",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-11-26",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "会议系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "在招",
+        "会议"
+      ],
+      "summary": "来源：深圳公共资源交易中心 ｜ 关键词：会议 ｜ 发布日期：2026-11-26",
+      "detail": "由每日自动同步生成。原始标题：深圳医学科学院永久场地地块二会议设备采购项目（A）招标公告。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳公共资源交易中心",
+      "sourceUrl": "https://zfcg.szggzy.com:8084/gsgg/002001/002001002/002001002001/20261126/33625768-2604-4230-898d-1470b7b03053.html",
+      "follow": false
+    },
+    {
+      "id": "D7521368d",
+      "category": "yale",
+      "name": "深圳市公安局监所管理支队会议室设备采购项目(二次采购）的采购结果公告",
+      "type": "历史项目",
+      "region": "广东",
+      "city": "深圳",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-11-26",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "会议系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "中标",
+        "会议"
+      ],
+      "summary": "来源：深圳公共资源交易中心 ｜ 关键词：会议 ｜ 发布日期：2026-11-26",
+      "detail": "由每日自动同步生成。原始标题：深圳市公安局监所管理支队会议室设备采购项目(二次采购）的采购结果公告。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳公共资源交易中心",
+      "sourceUrl": "https://www.szggzy.com/jygg/details.html?contentId=20772371",
+      "follow": false
+    },
+    {
+      "id": "D49317ac2",
+      "category": "yale",
+      "name": "光明区视联网会议系统及终端采购结果公告",
+      "type": "历史项目",
+      "region": "广东",
+      "city": "光明",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-11-26",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "会议系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "中标",
+        "会议"
+      ],
+      "summary": "来源：深圳公共资源交易中心 ｜ 关键词：会议 ｜ 发布日期：2026-11-26",
+      "detail": "由每日自动同步生成。原始标题：光明区视联网会议系统及终端采购结果公告。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳公共资源交易中心",
+      "sourceUrl": "https://zfcg.szggzy.com:8084/gsgg/002001/002001008/002001008002/20261126/a3dd1e65-a93a-4b2f-b9e2-3624f6a1a628.html",
+      "follow": false
+    },
+    {
+      "id": "D3f2429e2",
+      "category": "open",
+      "name": "香港中文大学（深圳）医院8号楼会议室设备采购项目（A）招标公告",
+      "type": "在招项目",
+      "region": "广东",
+      "city": "深圳",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-11-26",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "会议系统"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "在招",
+        "会议"
+      ],
+      "summary": "来源：深圳公共资源交易中心 ｜ 关键词：会议 ｜ 发布日期：2026-11-26",
+      "detail": "由每日自动同步生成。原始标题：香港中文大学（深圳）医院8号楼会议室设备采购项目（A）招标公告。请点击来源链接核实详情、预算与截止日期。",
+      "source": "深圳公共资源交易中心",
+      "sourceUrl": "https://zfcg.szggzy.com:8084/gsgg/002001/002001002/002001002001/20261126/6b4f2bfb-dcb7-4e14-b493-5c41642de1d8.html",
+      "follow": false
     },
     {
       "id": "Dc2def648",
@@ -4439,6 +4679,35 @@
       "detail": "由每日自动同步生成。原始标题：深圳市福田区荔园外国语小学（海滨）LED户外显示屏项目的采购公告。请点击来源链接核实详情、预算与截止日期。",
       "source": "深圳公共资源交易中心",
       "sourceUrl": "https://www.szggzy.com/jygg/details.html?contentId=20734934",
+      "follow": false
+    },
+    {
+      "id": "D6215ee38",
+      "category": "open",
+      "name": "博罗县博罗中学综合实验大楼及报告厅弱电智能化系统建设项目招标公告",
+      "type": "在招项目",
+      "region": "广东",
+      "city": "",
+      "amount": 0,
+      "budget": 0,
+      "winner": "",
+      "date": "2026-11-06",
+      "due": "",
+      "deadline": "",
+      "bidMethod": "",
+      "biz": [
+        "其他"
+      ],
+      "fit": "track",
+      "local": true,
+      "tags": [
+        "每日抓取",
+        "在招"
+      ],
+      "summary": "来源：中国政府采购网 ｜ 关键词：未标注 ｜ 发布日期：2026-11-06",
+      "detail": "由每日自动同步生成。原始标题：博罗县博罗中学综合实验大楼及报告厅弱电智能化系统建设项目招标公告。请点击来源链接核实详情、预算与截止日期。",
+      "source": "中国政府采购网",
+      "sourceUrl": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261106_27639971.htm",
       "follow": false
     },
     {
@@ -7529,35 +7798,6 @@
       "detail": "由每日自动同步生成。原始标题：深圳市龙岗区外国语学校（集团）新亚洲学校六楼多功能会议室（教研室兼考务室）修缮项目的采购结果公告。请点击来源链接核实详情、预算与截止日期。",
       "source": "深圳公共资源交易中心",
       "sourceUrl": "https://www.szggzy.com/jygg/details.html?contentId=20682026",
-      "follow": false
-    },
-    {
-      "id": "D6215ee38",
-      "category": "open",
-      "name": "博罗县博罗中学综合实验大楼及报告厅弱电智能化系统建设项目招标公告",
-      "type": "在招项目",
-      "region": "广东",
-      "city": "",
-      "amount": 0,
-      "budget": 0,
-      "winner": "",
-      "date": "2026-11-06",
-      "due": "",
-      "deadline": "",
-      "bidMethod": "",
-      "biz": [
-        "其他"
-      ],
-      "fit": "track",
-      "local": true,
-      "tags": [
-        "每日抓取",
-        "在招"
-      ],
-      "summary": "来源：中国政府采购网 ｜ 关键词：未标注 ｜ 发布日期：2026-11-06",
-      "detail": "由每日自动同步生成。原始标题：博罗县博罗中学综合实验大楼及报告厅弱电智能化系统建设项目招标公告。请点击来源链接核实详情、预算与截止日期。",
-      "source": "中国政府采购网",
-      "sourceUrl": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261106_27639971.htm",
       "follow": false
     }
   ]
